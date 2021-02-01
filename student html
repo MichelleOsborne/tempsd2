@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Student list </title>
+        <script src = "student.js"></script>
+
+    </head>
+    
+    <body>
+        <h1>
+            click button
+        </h1>
+        <input type = "button" value = "click me !" onclick = "printstudent()">
+        <div id = "main" > </div>
+    </body>
+</html>
